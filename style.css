@@ -1,0 +1,12 @@
+body {
+	background-image: url(banner.jpg);
+}
+.top{
+	height: 100px;
+}
+.main{
+	height: 650px
+}
+.small{
+	height: 50px
+}
